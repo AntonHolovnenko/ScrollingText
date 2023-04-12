@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="context_edit" type="id">Edit</item>
+    <item name="context_share" type="id">Share</item>
+    <item name="context_delete" type="id">Delete</item>
+</resources>
